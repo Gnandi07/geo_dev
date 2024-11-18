@@ -1,0 +1,10 @@
+streamlit
+geemap
+pandas
+numpy
+altair
+geopandas
+datetime
+requests
+folium
+streamlit_folium
